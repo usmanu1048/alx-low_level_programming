@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/*This is where my progarm starts execution. */
 int main(void)
 {
 		int n;
