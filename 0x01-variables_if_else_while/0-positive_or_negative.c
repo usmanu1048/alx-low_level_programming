@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /*This is where my progarm starts execution. */
 int main(void)
 {
