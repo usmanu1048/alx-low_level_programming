@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+  * main - Program starts here
+  * Return: 0
+  */
 int main(void)
 {
 	int abc;

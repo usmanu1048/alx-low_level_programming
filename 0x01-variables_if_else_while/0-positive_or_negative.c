@@ -1,7 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*This is where my progarm starts execution. */
+/**
+ * main - Program starts here
+ * Return: 0
+ */
 int main(void)
 {
 		int n;

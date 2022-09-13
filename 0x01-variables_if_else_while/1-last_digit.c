@@ -3,6 +3,7 @@
 #include <stdio.h>
 /**
  * main - execution starts here
+ * Return: 0
  */
 int main(void)
 {
