@@ -3,8 +3,8 @@
   * 
   * Return: void 
   */
-char print_putchar(void)
-{
+void print_putchar(void)
+	{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -14,5 +14,9 @@ char print_putchar(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+	}
+int main(void)
+{	
+	print_putchar();
 	return (0);
-}	
+}
