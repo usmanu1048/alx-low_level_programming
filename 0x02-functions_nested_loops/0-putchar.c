@@ -1,7 +1,8 @@
 #include "main.h"
-/** print_putchar - prints to standard output
-  * 
-  * Return: void 
+/**
+  * print_putchar - prints to standard output
+  *
+  * Return: void
   */
 void print_putchar(void)
 	{
@@ -15,8 +16,12 @@ void print_putchar(void)
 	_putchar('r');
 	_putchar('\n');
 	}
+/**
+  * main - this is the entry point
+  * Return: zero
+  */
 int main(void)
-{	
+{
 	print_putchar();
 	return (0);
 }
