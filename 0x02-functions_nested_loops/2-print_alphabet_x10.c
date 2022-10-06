@@ -13,4 +13,59 @@ void print_alphabet_x10(void)
 		_putchar(d);
 	}
 		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
+	for (d = 'a'; d <= 'z'; d++)
+	{	
+		_putchar(d);
+	}
+		_putchar('\n');
+
 }
